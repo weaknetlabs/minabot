@@ -1,0 +1,1 @@
+Artificial Intelligence bot for IRC. It works using small lists and Regular Expressions using Perl.

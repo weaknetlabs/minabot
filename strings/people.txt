@@ -1,0 +1,16 @@
+mom
+dad
+mother
+father
+brother
+sister
+friend
+boss
+manager
+aunt
+uncle
+teacher
+professor
+co workers
+dentist
+doctor

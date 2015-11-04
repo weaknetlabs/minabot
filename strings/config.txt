@@ -1,0 +1,7 @@
+channel = #lunatics
+nick = mina
+server = irc.igs.ca
+port = 6667
+ircname = Wilhelmina
+username = Wilhelmina the Warrior
+ytdlpath = /path/to/public/folder/
